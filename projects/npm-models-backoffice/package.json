@@ -1,0 +1,25 @@
+{
+  "name": "npm-models-backoffice",
+  "version": "0.0.1",
+  "description": "Libreria que contiene las Entidades-Models para el backoffice",
+  "keywords": [
+    "models", "modelos", "entidades", "backoffice"
+  ],
+  "homepage": "https://github.com/probartrabajomuni/npm-models-backoffice#readme",
+  "bugs": {
+    "url" : "https://github.com/probartrabajomuni/npm-models-backoffice/issues",
+    "email" : "probartrabajomuni@gmail.com"
+  },  
+  "license": "MIT",
+  "author": {
+    "name": "Jose Coronel",
+    "email": "probartrabajomuni@gmail.com"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
